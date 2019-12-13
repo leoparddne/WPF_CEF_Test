@@ -1,5 +1,7 @@
 # WPF_CEF_Test
-使用cefsharp.wpf开发的基本功能
+使用cefsharp.wpf开发的基本功能  
+wpf加载svg 在同一个页面中打开链接 wpf与js互相调用、传值  
+
 安装 PM> Install-Package CefSharp.Wpf 
 解决方案->属性->配置属性->活动解决方案平台—新建-x64
 
